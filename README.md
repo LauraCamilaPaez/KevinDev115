@@ -4,3 +4,6 @@ In this repository you can find some projects that I have developed for companie
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kevin%20Galindo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-julian-galindo-meneses-131295196/)](https://www.linkedin.com/in/kevin-julian-galindo-meneses-131295196/)
 
+
+
+Credit by [@ofaaoficial 🧔](https://github.com/ofaaoficial) for the idea this README
