@@ -12,7 +12,7 @@ I am passionate about web and mobile programming, with more than 3 years of expe
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) ![Vue.js](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) ![Materialize](https://img.shields.io/badge/-materialize-ee6e73?style=flat-square&logo=material-design) ![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui) ![Element-UI](https://img.shields.io/badge/-ElementUI-0081CB?style=flat-square&logo=element-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) ![Materialize](https://img.shields.io/badge/-materialize-ee6e73?style=flat-square&logo=material-design&colorLogo=white) ![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui) ![Element-UI](https://img.shields.io/badge/-ElementUI-0081CB?style=flat-square&logo=element-ui)
 
 
 ### Languages, Frameworks and Tools - BackEnd
